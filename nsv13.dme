@@ -15,6 +15,11 @@
 // BEGIN_INCLUDE
 #include "_maps\_basemap.dm"
 #include "_maps\hammerhead.dm"
+#include "_maps\map_files\Yamato\Yamato1.dmm"
+#include "_maps\map_files\Yamato\Yamato2.dmm"
+#include "_maps\map_files\Yamato\Yamato3.dmm"
+#include "_maps\map_files\Yamato\Yamato4.dmm"
+#include "_maps\map_files\Yamato\Yamato5.dmm"
 #include "code\_compile_options.dm"
 #include "code\world.dm"
 #include "code\__DEFINES\_globals.dm"
